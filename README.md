@@ -37,5 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Experiment with Toggles
 <details><summary> This is a Toggle in Readme.md file</summary>
-``` console.log("Hello Pawan");```
+```javascript
+ console.log("Hello Pawan");```
  </details>
