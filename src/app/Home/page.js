@@ -1,11 +1,12 @@
 import React from 'react'
 import Navbar from '@/components/Navbar/Navbar'
 import Footer from '@/components/Footer/Footer'
+import Image from 'next/image'
 
 const Home = () => {
   return (
     <>
-      <div className='w-full h-screen m-0 p-0 box-border flex flex-col align-middle justify-center'>
+      <div className='w-full h-full m-0 p-0 box-border flex flex-col'>
       <Navbar/>
       <div className="w-full h-5/6 flex justify-center align-middle px-5 py-20">
         <div className=" w-5/6 px-8 py-3 flex justify-around align-middle bg-gray-800 rounded-lg">
@@ -19,7 +20,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <Footer/>  
+      <Footer/>
       </div>
     </>
   )
