@@ -1,0 +1,16 @@
+{
+    "home":{
+        "header":"Pawan Pal",
+        "content":"A Front-End Web Developer and a Competitive Programmer passionate about creating interactive applications on the web and solving complex problems by the power of data structures and algorithms."
+    },
+    "skills":{
+        "header":"My Skills",
+        "content":{
+            "react-icon":"<i class=\"ri-reactjs-line\"></i>"
+        }
+    },
+    "about":{
+        "header":"About Me",
+        "content":"As a web development student at Chameli Devi Institute, I'm driven by a deep passion for front-end design. Committed to creating immersive digital experiences, I eagerly embrace evolving design trends and technologies. With a keen eye for detail and a creative mindset, I'm poised to contribute innovative solutions and embark on a fulfilling career in front-end development."
+    }
+}
